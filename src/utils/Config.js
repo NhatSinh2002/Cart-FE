@@ -1,1 +1,1 @@
-export const API_URL = `http://localhost:8000/v1`;
+export const API_URL = `https://cart-be.onrender.com/v1`;
